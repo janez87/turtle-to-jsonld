@@ -1,12 +1,12 @@
 {
   "author": "Kuno Woudt <kuno@frob.nl>",
   "dependencies": {
-    "jsonld": "^0.3.22",
-    "n3": "^0.4.1",
+     "jsonld": "^0.4.8",
+    "n3": "^0.4.5",
     "named-argv": "^0.3.0",
-    "underscore": "^1.8.1",
-    "underscore.string": "^3.0.3",
-    "when": "^3.7.2"
+   "underscore": "^1.8.3",
+    "underscore.string": "^3.3.4",
+    "when": "^3.7.7"
   },
   "devDependencies": {
     "eslint": "^0.15.0",
